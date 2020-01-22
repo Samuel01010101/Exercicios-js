@@ -1,8 +1,8 @@
 # Exercícios
 Praticando html/css/js
 
-https://github.com/braziljs/eloquente-javascript
+Tradução do Livro Eloquente Javascript - https://github.com/braziljs/eloquente-javascript
 
-https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
+Curso de Javascript para iniciantes do CURSO EM VIDEO - https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
 
-https://rocketseat.com.br/starter
+Curso de Javascript da ROCKETSEAT - https://rocketseat.com.br/starter
