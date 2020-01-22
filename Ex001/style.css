@@ -1,0 +1,5 @@
+body{background-color: #f5f5f5; margin: 0; padding: 0;}
+#header h1{text-align: center;}
+#principal{background-color: #ffffff; width: 500px; margin: auto; min-height: 150px; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 4px rgba(0,0,0,0.7);}
+#mudarcor{width: 97px; height: 75px; background-color: #f5f5f5;}
+#btn-cor{margin-top: 5px;}
