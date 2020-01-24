@@ -1,5 +1,5 @@
 let input = document.querySelector('#app input');
-let button = document.querySelector('#app button')
+let button = document.querySelector('#app button');
 let lista = document.querySelector('#app ul');
 
 let array = JSON.parse(localStorage.getItem('lista_array')) || [];
